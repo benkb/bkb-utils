@@ -1,0 +1,1 @@
+(print 99)(display ffff)(if (> 1 0) (display ffff))
